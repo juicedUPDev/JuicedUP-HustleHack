@@ -1,0 +1,8 @@
+{
+  "name": "Maypo AI Consulting Platform",
+  "description": "Enterprise-grade AI consulting powered by advanced prompt engineering, real-time analytics, and multimodal streaming chat.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
